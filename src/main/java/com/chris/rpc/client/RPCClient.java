@@ -11,7 +11,7 @@ import java.net.Socket;
 
 /**
  * Created by IntelliJ IDEA.
- * User: yuanliwei@le.com
+ * User: yuanlw
  * Date: 2017/4/13
  * Time: 17:13
  * DESCRIPTION:

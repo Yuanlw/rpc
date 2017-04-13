@@ -13,7 +13,7 @@ import java.util.concurrent.Executors;
 
 /**
  * Created by IntelliJ IDEA.
- * User: yuanliwei@le.com
+ * User: yuanlw
  * Date: 2017/4/13
  * Time: 15:10
  * DESCRIPTION:

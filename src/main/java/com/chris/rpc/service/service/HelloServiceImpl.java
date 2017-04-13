@@ -4,7 +4,7 @@ import com.chris.rpc.service.inter.HelloService;
 
 /**
  * Created by IntelliJ IDEA.
- * User: yuanliwei@le.com
+ * User: yuanlw
  * Date: 2017/4/13
  * Time: 15:00
  * DESCRIPTION:
